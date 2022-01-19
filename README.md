@@ -1,5 +1,7 @@
 # Mailgun with Go
 
+Forked in order to remove requirement to use modules in v4.
+
 [![GoDoc](https://godoc.org/github.com/mailgun/mailgun-go?status.svg)](https://godoc.org/github.com/mailgun/mailgun-go)
 [![Build Status](https://img.shields.io/travis/mailgun/mailgun-go/master.svg)](https://travis-ci.org/mailgun/mailgun-go)
 
